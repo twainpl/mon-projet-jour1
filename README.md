@@ -1,10 +1,11 @@
 # mon-projet-jour1
+
 **** LOCAL ****
-**** LOCAL ****
+**** GITHUB ****
 
 Formation
 
 Projet jour 1
 
 **** LOCAL ****
-**** LOCAL ****
+**** GITHUB ****
